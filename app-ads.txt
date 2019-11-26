@@ -3,7 +3,7 @@ appodeal.com, 6481, DIRECT
 #BidMachine
 bidmachine.io, 6481, DIRECT
 #AdMob
-#Copy Admob's app-ads.txt entry from your Admob dashboard
+google.com, pub-5646529774640851, DIRECT, f088c47fec942fa0
 #AdColony
 adcolony.com, fcaa373cac67c9f927aa914013b8346e, DIRECT, 1ad675c9de6b5176
 #Applovin
