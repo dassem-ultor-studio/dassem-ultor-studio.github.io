@@ -580,3 +580,10 @@ appnexus.com, 9393, RESELLER
 rubiconproject.com, 14558, RESELLER, 0bfd66d529a55807
 #Silvermob
 silvermob.com,419,RESELLER
+#Bizzclick
+bizzclick.com, 78, DIRECT, 7e936b1feafdaa61  
+bizzclick.com, 116, DIRECT, 7e936b1feafdaa61  
+bizzclick.com, 67, DIRECT, 7e936b1feafdaa61  
+bizzclick.com, 122, DIRECT, 7e936b1feafdaa61  
+bizzclick.com, 111, DIRECT, 7e936b1feafdaa61  
+bizzclick.com, 60, DIRECT, 7e936b1feafdaa61  
